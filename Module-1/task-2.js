@@ -23,7 +23,7 @@
 // const a = +prompt('First number');
 // const b = +prompt('Second number');
 
-// const sumOfNumbers = a + b;
+// const sumOfNumbers = a * b;
 // console.log('Sum of numbers: ' + sumOfNumbers);
 
 // / Task 3
