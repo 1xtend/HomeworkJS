@@ -89,8 +89,6 @@
 // const m = 4;
 
 // const k = Math.sqrt(Math.pow(n, 2) + Math.pow(m, 2));
-// // const k = n ** 2 + m ** 2;
-
 // console.log('Гіпотенуза: ' + k);
 
 // / Task 8
