@@ -43,12 +43,8 @@
 let name = prompt("Введіть ім'я свого улюбленого героя");
 
 while (name.length < 6) {
-  if (name.length < 6) {
-    console.log(name);
-    name = prompt("Введіть ім'я свого улюбленого героя");
-  } else {
-    break;
-  }
+  console.log(name);
+  name = prompt("Введіть ім'я свого улюбленого героя");
 }
 
 // / Task 4
