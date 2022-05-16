@@ -46,10 +46,10 @@
 
 // Task 4
 
-// // const randomNumber = Math.round(Math.random() * 5) + 1;
-// // console.log(randomNumber);
+const randomNumber = Math.round(Math.random() * 5) + 1;
+console.log(randomNumber);
 
-// const randomNumber = Math.random() * 5;
+// const randomNumber = Math.random() * 5 + 1;
 
 // if (randomNumber >= 0 && randomNumber < 1) {
 //   console.log(1);
