@@ -14,15 +14,16 @@
 
 // Task 2
 
-// const arr1 = [1, 5, '4', 'hello'];
+const arr1 = [1, 5, '4', 'hello'];
 
+arr1[3] = 22;
 // arr1.push(22);
 
-// console.log(arr1);
+console.log(arr1);
 
-// for (let i = 0; i < arr1.length; i++) {
-//   console.log(arr1[i]);
-// }
+for (let i = 0; i < arr1.length; i++) {
+  console.log(arr1[i]);
+}
 
 // / Task 2
 
